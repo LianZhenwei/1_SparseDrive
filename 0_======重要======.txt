@@ -1,4 +1,4 @@
 此工作区间仅是实习期间使用个人电脑解读SparseDrive时的详细解读版、并不包含任何对模型的修改代码，
 而对SparseDrive模型的修改全部在公司电脑上完成（代码修改、训练日志、测试指标文件等）、并不在此工作区间内。
 
-整个SparseDrive的核心逻辑已经概括为7张手绘图，见 https://github.com/LianZhenwei/1_SparseDrive/0_hand-drawn_diagram_by_LZW。
+整个SparseDrive的核心逻辑已经概括为7张手绘图，见 https://github.com/LianZhenwei/1_SparseDrive/tree/main/0_hand-drawn_diagram_by_LZW。
